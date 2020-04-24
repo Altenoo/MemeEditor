@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_photo_blue_24dp"
+        android:title="Шаблоны" />
+    <item
+        android:icon="@drawable/ic_create_black_24dp"
+        android:title="Редактировать" />
+    <item
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Шаринг" />
+</menu>
